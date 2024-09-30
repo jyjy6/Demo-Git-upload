@@ -10,6 +10,7 @@ public class AppConfig implements WebMvcConfigurer {
     private String urlPath = "/upload/**";
     private String location = "file:///C:/upload/";
 
+//수정 123123123
 
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry resourceHandlerRegistry){
