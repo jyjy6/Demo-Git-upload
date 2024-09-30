@@ -11,6 +11,7 @@ public class AppConfig implements WebMvcConfigurer {
     private String location = "file:///C:/upload/";
 
 //수정 123123123
+//    제대로 된 수정
 
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry resourceHandlerRegistry){
